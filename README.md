@@ -1,16 +1,22 @@
-### Hi there 👋
-
-<!--
-**dadapeer362/dadapeer362** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1> Hi there! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+I am a programmer, full stack developer, python-script-writer, crypto-enthusiast, etc. I love to code, learn and discover cool stuff..😄
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🔭 I’m currently working on an Organization's projects.
+
+🌱 I’m currently learning DPs, Unit Testing, Mocking APIs.
+
+👯 I’m looking to collaborate on Open Source Projects(documentation and later on maybe contribute)
+
+🤔 I’m looking for help with sharpening my skillset.
+
+💬 Ask me about anything professional only.
+
+📫 How to reach me: https://www.linkedin.com/in/shaik-dadapeer-9668811b1/
+
+😄 Pronouns: He/Him/His
+
+💻 Prefer: Ubuntu(3 years), Windows(6 months+)(current)
+  
