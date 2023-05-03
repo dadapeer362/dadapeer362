@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 😄 Pronouns: He/Him/His
 
-💻 Prefer: Ubuntu(3 years), Windows(6 months+)(current)
+💻 Prefer: Ubuntu, Windows
   
