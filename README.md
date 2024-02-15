@@ -1,5 +1,5 @@
 <h1> Hi there! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
-I am a programmer, full stack developer, python-script-writer, etc. I love to code, learn and discover cool stuff..😄
+I am a programmer, full stack developer. I love to code, learn and discover cool stuff..😄
 
 Here are some ideas to get you started:
 
