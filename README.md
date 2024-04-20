@@ -6,10 +6,6 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on an Organization's projects.
 
-👯 I’m looking to collaborate on Open Source Projects(documentation and later on maybe contribute)
-
-🤔 I’m looking for help with sharpening my skillset.
-
 💬 Ask me about anything professional only.
 
 📫 How to reach me: https://www.linkedin.com/in/shaik-dadapeer-9668811b1/
